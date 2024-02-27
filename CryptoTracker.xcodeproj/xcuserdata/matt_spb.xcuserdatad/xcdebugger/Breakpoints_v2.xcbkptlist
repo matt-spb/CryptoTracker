@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "828D9D0A-9207-41DB-9047-04A88A296F80"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E767BBFD-2A2E-4BEF-B182-1DAA367E1EA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoTracker/Sources/Networking/Base/HTTPClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "handlingDataTask(data:response:error:responseModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E767BBFD-2A2E-4BEF-B182-1DAA367E1EA3 - a610e25e6e723a0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoTracker.HTTPClient.handlingDataTask&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(data: Swift.Optional&lt;Foundation.Data&gt;, response: Swift.Optional&lt;__C.NSURLResponse&gt;, error: Swift.Optional&lt;Swift.Error&gt;, responseModel: &#x3c4;_1_0.Type) -&gt; Swift.Result&lt;&#x3c4;_1_0, CryptoTracker.HTTPRequestError&gt;"
+                  moduleName = "CryptoTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matt_spb/iOS/Practice/iOSDevFactory/Projects/CryptoTracker/CryptoTracker/Sources/Networking/Base/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "E767BBFD-2A2E-4BEF-B182-1DAA367E1EA3 - a610e25e6e723a0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoTracker.HTTPClient.handlingDataTask&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(data: Swift.Optional&lt;Foundation.Data&gt;, response: Swift.Optional&lt;__C.NSURLResponse&gt;, error: Swift.Optional&lt;Swift.Error&gt;, responseModel: &#x3c4;_1_0.Type) -&gt; Swift.Result&lt;&#x3c4;_1_0, CryptoTracker.HTTPRequestError&gt;"
+                  moduleName = "CryptoTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matt_spb/iOS/Practice/iOSDevFactory/Projects/CryptoTracker/CryptoTracker/Sources/Networking/Base/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "E767BBFD-2A2E-4BEF-B182-1DAA367E1EA3 - a610e25e6e723a2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoTracker.HTTPClient.handlingDataTask&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(data: Swift.Optional&lt;Foundation.Data&gt;, response: Swift.Optional&lt;__C.NSURLResponse&gt;, error: Swift.Optional&lt;Swift.Error&gt;, responseModel: &#x3c4;_1_0.Type) -&gt; Swift.Result&lt;&#x3c4;_1_0, CryptoTracker.HTTPRequestError&gt;"
+                  moduleName = "CryptoTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matt_spb/iOS/Practice/iOSDevFactory/Projects/CryptoTracker/CryptoTracker/Sources/Networking/Base/HTTPClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
