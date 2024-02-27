@@ -7,14 +7,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class HomeScreenViewController: UIViewController {
+    
+    let networkManager = NetworkManager()
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
         view.backgroundColor = .cyan
+        networkManager.getCoinList()
     }
-
-
 }
 
